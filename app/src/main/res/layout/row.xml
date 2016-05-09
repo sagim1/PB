@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="wrap_content"
+    android:background="#d2d2d2">
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:src="@drawable/img1"
+        android:scaleType="fitXY"
+        android:layout_width="match_parent"
+        android:layout_height="150dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView1"
+        android:layout_below="@+id/imageView1"
+        android:layout_marginTop="15dp"
+        android:textSize="20sp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:text="Google Extended I/O at NJIT, Newark"/>
+</RelativeLayout>

@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Postboard</string>
+    <string name="menu_1">Category</string>
+    <string name="menu_2">Order</string>
+    <string name="menu_3">Add</string>
+    <string name="title_activity_add_event">Add Event</string>
+    <string name="eventName">eventName</string>
+    <string name="eventDay">eventDay</string>
+    <string name="eventTime">eventTime</string>
+    <string name="eventPlace">eventPlace</string>
+    <string name="eventBy">eventBy</string>
+    <string name="eventImage">eventImage</string>
+    <string name="eventId">eventId</string>
+    <string name="going">going</string>
+    <string name="notGoing">notGoing</string>
+    <string name="title_activity_view_event_details">ViewEventDetails</string>
+
+    <string-array name="club_array">
+        <item>Science Club</item>
+        <item>Arts Club</item>
+        <item>Sports Club</item>
+        <item>Honor Club</item>
+        <item>Greek Club</item>
+        <item>Charity Club</item>
+        <item>Religious Club</item>
+    </string-array>
+</resources>
